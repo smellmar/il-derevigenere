@@ -24,7 +24,7 @@ User-Friendly Interface: The script provides a seamless user experience, allowin
 
 Special Character Handling: In contrast to the original cipher, which required users to manually remove and reinsert special characters before and after encryption, this script automates the process. Special characters are seamlessly incorporated into the encrypted message without any user intervention.
 
-Keystone Markers: The script employs [>.<] markers to represent unknown characters in the message, ensuring transparency during the encryption process. These markers simplify the identification of characters that may be altered during encryption, enhancing overall clarity.
+Keystone Markers: The script employs `[>.<]` markers to represent unknown characters in the message, ensuring transparency during the encryption process. These markers simplify the identification of characters that may be altered during encryption, enhancing overall clarity.
 
 ## Getting Started
 
@@ -36,6 +36,6 @@ python vigenere_cipher.py
 
 ## Author
 
-Mike Delmar | 2024 [>.<]
+`Mike Delmar | 2024 [>.<]`
 
 Feel free to explore, use, and modify the code to suit your needs. Any comments or suggestions, I welcome your feedback.
