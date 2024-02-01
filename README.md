@@ -20,11 +20,9 @@ The provided Python script replicates the Vigenere cipher, offering both `devige
 
 While staying true to the Vigenere cipher concept, this implementation introduces several enhancements:
 
-Type Interface: Easily input messages and keywords.
-
-Special Character Handling: The original cipher required users to manually remove and reinsert special characters before and after encryption. This script nicely handles the process for you.
-
-Unkown Characters: `[>.<]` markers represent unknown characters in the message.
+* Type Interface: Easily input messages and keywords.
+* Special Character Handling: The original cipher required users to manually remove and reinsert special characters before and after encryption. This script nicely handles the process for you.
+* Unkown Characters: `[>.<]` markers represent unknown characters in the message.
 
 ## Getting Started
 
