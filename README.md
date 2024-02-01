@@ -1,10 +1,10 @@
-# il-derevigenere
-a revised version or the veritable vigenere cipher derived originally from the visionary giovan battista bellaso in 16th century, surviving almost four centuries of uncrackability
+Il Derevigenere
+A revised version or the veritable Vigenere Cipher devised originally by the visionary Giovan Battista Bellaso in the 16th century, surviving almost four centuries of certain uncrackabile security.
 
-learn more about vigenere ciphers here:
+Learn more about vigenere ciphers here:
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 
-# Vigenere Cipher Replication in Python
+# A Python Vigenere Cipher
 
 Welcome to the `il-derevigenere` repository! This Python script implements a Vigenere cipher, a classic encryption method that adds complexity to the traditional Caesar cipher. This cipher is a polyalphabetic substitution, meaning that it uses multiple substitution alphabets.
 
