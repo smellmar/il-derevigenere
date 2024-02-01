@@ -1,5 +1,5 @@
 # Il Derevigenere
-A revised version or the veritable Vigenere Cipher devised originally by the visionary Giovan Battista Bellaso in the 16th century, surviving almost four centuries of certain uncrackabile security.
+A revised version of the veritable Vigenere Cipher devised originally by the visionary Giovan Battista Bellaso in the 16th century, surviving almost four centuries of certain uncrackabile security.
 
 Learn more about vigenere ciphers here:
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
